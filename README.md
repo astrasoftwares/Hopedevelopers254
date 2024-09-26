@@ -2,7 +2,7 @@
 🔭 I’m currently Building a Brand "Hope Developers"<br>👯 I’m looking to collaborate on Artificial Intelligence and Automation<br>🤝 I’m looking for help with: Django Api<br>🌱 I’m currently learning: AI and Automation<br>💬 Ask me about : Front-end and Back-end Technologies<br>⚡ Fun fact:  Programming is about problem solving not coding
 
 
-[(Programming )](https://gifs.com/gif/matrix-raining-code-vV5NdE)
+
 
 
 
