@@ -5,7 +5,7 @@
 
 
 ``
-# while (alive){
+while (alive){
        code()
        sleep()
        }
