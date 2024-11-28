@@ -5,9 +5,9 @@
 
 
 ``
- while (alive){
-       code()
-       sleep()
+ while (alive){\n
+       code()\n
+       sleep()\n
        }
 ``
 
