@@ -1,4 +1,4 @@
-# Who am i? ![SoExcited~GIF](https://github.com/user-attachments/assets/82faa4c5-ad36-41e9-89cd-ec0941360f38)
+# Who am i? 😁
 :
 🔭 I’m currently Building a Brand "Hope Developers"<br>👯 I’m looking to collaborate on Artificial Intelligence and Automation<br>🤝 I’m looking for help with: Django Api<br>🌱 I’m currently learning: AI and Automation<br>💬 Ask me about : Front-end and Back-end Technologies<br>⚡ Fun fact:  Programming is about problem solving not coding
 
