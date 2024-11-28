@@ -4,6 +4,12 @@
 
 
 
+``
+ while (alive){
+       code()
+       sleep()
+       }
+``
 
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB4aDBjeHRiZmh5c2dtZDg4YmQ4cmgwMWd2eDVzMmJvNjIxcDNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ah3zHH7hvsSB2/giphy.gif)
 
