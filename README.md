@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently Building a Brand "Hope Developers"<br>👯 I’m looking to collaborate on Artificial Intelligence and Automation<br>🤝 I’m looking for help with: Django Api<br>🌱 I’m currently learning: AI and Automation<br>💬 Ask me about : Front-end and Back-end Technologies<br>⚡ Fun fact:  Programming is about problem solving not coding
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/batman-arkham-footage-QHE5gWI0QjqF2))
+![Alt Text]([[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d5ZDRpdm5wdXZ1OXg4YXFnNmoydzZsNmpoM25veW15NWY5ZHZocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif)](https://giphy.com/gifs/batman-arkham-footage-QHE5gWI0QjqF2))
 
 
 
