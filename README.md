@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 We are Astra softwares<br>We build AI and software<br>We are currently exploring  Quantum Machine learning<br>
 
 
